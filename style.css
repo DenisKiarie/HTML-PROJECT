@@ -1,0 +1,79 @@
+img {
+    width: 400px;
+    height: 400px;
+    float:right;
+}
+
+#red {
+    color:red;
+    font-family: Verdana;
+    font-size: 100%;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    background-color: lightgrey;
+    
+}
+
+#blue {
+    color: blue;
+}
+
+.panda {
+    font-family: Arial;
+    margin-left: 10px;
+    
+}
+
+#yellow {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+    font-family: verdana;
+    font-size: 100%;
+    border-style: solid;
+    border-width: 5px;
+    padding: 10px;
+    background-color: linen;
+    
+}
+
+#green {
+    color: green;
+}
+
+.godzilla {
+    font-family: helvetica;
+    margin-left: 10px;
+}
+
+#pink {
+    color: green;
+}
+
+.panther {
+    font-family: sans-serif;
+    margin-left: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color:crimson;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+* {
+    background-color: rgb(247, 239, 132);
+}
